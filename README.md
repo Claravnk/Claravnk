@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DocTotoscope !
 - 👀 I’m interested in science, medicine and technology (mostly IOT).
+- 🩺 I work as a physician.
 - 🌱 I’m currently learning Python and HTML.
 - 📫 You can reach me at contact@doctotoscope.fr 
 
